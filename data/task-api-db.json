@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "task_description": "Michael",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "task_description": "Lindsay",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "task_description": "Tobias",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": 10,
+      "email": "byron.fields@reqres.in",
+      "task_description": "Byron",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": 11,
+      "email": "george.edwards@reqres.in",
+      "task_description": "George",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": 12,
+      "email": "rachel.howell@reqres.in",
+      "task_description": "Rachel",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ]
+}
